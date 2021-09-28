@@ -1,0 +1,3 @@
+*Legacy Project*
+
+Old version I made for a game a long time ago in Unity 4 that never got finished. The assets are unchanged and left as they were (no update) but it was added as additional material. Feel free to also use this in your projects if you want to!

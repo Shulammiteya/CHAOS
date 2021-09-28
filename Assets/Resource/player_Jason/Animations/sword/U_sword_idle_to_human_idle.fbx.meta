@@ -1,0 +1,1145 @@
+fileFormatVersion: 2
+guid: f3ba8824153785f44857528a03cfb872
+timeCreated: 1485623762
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: j_weapon
+    100002: Male_Warrior_Head
+    100004: Male_Warrior_Hips
+    100006: Male_Warrior_LeftArm
+    100008: Male_Warrior_LeftFoot
+    100010: Male_Warrior_LeftForeArm
+    100012: Male_Warrior_LeftHand
+    100014: Male_Warrior_LeftHandIndex1
+    100016: Male_Warrior_LeftHandIndex2
+    100018: Male_Warrior_LeftHandIndex3
+    100020: Male_Warrior_LeftHandIndex4
+    100022: Male_Warrior_LeftHandMiddle1
+    100024: Male_Warrior_LeftHandMiddle2
+    100026: Male_Warrior_LeftHandMiddle3
+    100028: Male_Warrior_LeftHandMiddle4
+    100030: Male_Warrior_LeftHandPinky1
+    100032: Male_Warrior_LeftHandPinky2
+    100034: Male_Warrior_LeftHandPinky3
+    100036: Male_Warrior_LeftHandPinky4
+    100038: Male_Warrior_LeftHandRing1
+    100040: Male_Warrior_LeftHandRing2
+    100042: Male_Warrior_LeftHandRing3
+    100044: Male_Warrior_LeftHandRing4
+    100046: Male_Warrior_LeftHandThumb1
+    100048: Male_Warrior_LeftHandThumb2
+    100050: Male_Warrior_LeftHandThumb3
+    100052: Male_Warrior_LeftHandThumb4
+    100054: Male_Warrior_LeftLeg
+    100056: Male_Warrior_LeftShoulder
+    100058: Male_Warrior_LeftToeBase
+    100060: Male_Warrior_LeftUpLeg
+    100062: Male_Warrior_Neck
+    100064: Male_Warrior_Reference
+    100066: Male_Warrior_RightArm
+    100068: Male_Warrior_RightFoot
+    100070: Male_Warrior_RightForeArm
+    100072: Male_Warrior_RightHand
+    100074: Male_Warrior_RightHandIndex1
+    100076: Male_Warrior_RightHandIndex2
+    100078: Male_Warrior_RightHandIndex3
+    100080: Male_Warrior_RightHandIndex4
+    100082: Male_Warrior_RightHandMiddle1
+    100084: Male_Warrior_RightHandMiddle2
+    100086: Male_Warrior_RightHandMiddle3
+    100088: Male_Warrior_RightHandMiddle4
+    100090: Male_Warrior_RightHandPinky1
+    100092: Male_Warrior_RightHandPinky2
+    100094: Male_Warrior_RightHandPinky3
+    100096: Male_Warrior_RightHandPinky4
+    100098: Male_Warrior_RightHandRing1
+    100100: Male_Warrior_RightHandRing2
+    100102: Male_Warrior_RightHandRing3
+    100104: Male_Warrior_RightHandRing4
+    100106: Male_Warrior_RightHandThumb1
+    100108: Male_Warrior_RightHandThumb2
+    100110: Male_Warrior_RightHandThumb3
+    100112: Male_Warrior_RightHandThumb4
+    100114: Male_Warrior_RightLeg
+    100116: Male_Warrior_RightShoulder
+    100118: Male_Warrior_RightToeBase
+    100120: Male_Warrior_RightUpLeg
+    100122: Male_Warrior_Spine
+    100124: Male_Warrior_Spine1
+    100126: Male_Warrior_Spine2
+    100128: //RootNode
+    100130: world_root
+    400000: j_weapon
+    400002: Male_Warrior_Head
+    400004: Male_Warrior_Hips
+    400006: Male_Warrior_LeftArm
+    400008: Male_Warrior_LeftFoot
+    400010: Male_Warrior_LeftForeArm
+    400012: Male_Warrior_LeftHand
+    400014: Male_Warrior_LeftHandIndex1
+    400016: Male_Warrior_LeftHandIndex2
+    400018: Male_Warrior_LeftHandIndex3
+    400020: Male_Warrior_LeftHandIndex4
+    400022: Male_Warrior_LeftHandMiddle1
+    400024: Male_Warrior_LeftHandMiddle2
+    400026: Male_Warrior_LeftHandMiddle3
+    400028: Male_Warrior_LeftHandMiddle4
+    400030: Male_Warrior_LeftHandPinky1
+    400032: Male_Warrior_LeftHandPinky2
+    400034: Male_Warrior_LeftHandPinky3
+    400036: Male_Warrior_LeftHandPinky4
+    400038: Male_Warrior_LeftHandRing1
+    400040: Male_Warrior_LeftHandRing2
+    400042: Male_Warrior_LeftHandRing3
+    400044: Male_Warrior_LeftHandRing4
+    400046: Male_Warrior_LeftHandThumb1
+    400048: Male_Warrior_LeftHandThumb2
+    400050: Male_Warrior_LeftHandThumb3
+    400052: Male_Warrior_LeftHandThumb4
+    400054: Male_Warrior_LeftLeg
+    400056: Male_Warrior_LeftShoulder
+    400058: Male_Warrior_LeftToeBase
+    400060: Male_Warrior_LeftUpLeg
+    400062: Male_Warrior_Neck
+    400064: Male_Warrior_Reference
+    400066: Male_Warrior_RightArm
+    400068: Male_Warrior_RightFoot
+    400070: Male_Warrior_RightForeArm
+    400072: Male_Warrior_RightHand
+    400074: Male_Warrior_RightHandIndex1
+    400076: Male_Warrior_RightHandIndex2
+    400078: Male_Warrior_RightHandIndex3
+    400080: Male_Warrior_RightHandIndex4
+    400082: Male_Warrior_RightHandMiddle1
+    400084: Male_Warrior_RightHandMiddle2
+    400086: Male_Warrior_RightHandMiddle3
+    400088: Male_Warrior_RightHandMiddle4
+    400090: Male_Warrior_RightHandPinky1
+    400092: Male_Warrior_RightHandPinky2
+    400094: Male_Warrior_RightHandPinky3
+    400096: Male_Warrior_RightHandPinky4
+    400098: Male_Warrior_RightHandRing1
+    400100: Male_Warrior_RightHandRing2
+    400102: Male_Warrior_RightHandRing3
+    400104: Male_Warrior_RightHandRing4
+    400106: Male_Warrior_RightHandThumb1
+    400108: Male_Warrior_RightHandThumb2
+    400110: Male_Warrior_RightHandThumb3
+    400112: Male_Warrior_RightHandThumb4
+    400114: Male_Warrior_RightLeg
+    400116: Male_Warrior_RightShoulder
+    400118: Male_Warrior_RightToeBase
+    400120: Male_Warrior_RightUpLeg
+    400122: Male_Warrior_Spine
+    400124: Male_Warrior_Spine1
+    400126: Male_Warrior_Spine2
+    400128: //RootNode
+    400130: world_root
+    7400000: sword_idle_to_idle
+    7400002: sword_idle_to_human_idle
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'sword_idle_to_human_idle' has import animation
+      warnings that might lower retargeting quality:\nNote: Activate translation DOF
+      on avatar to improve retargeting quality.\n\t'Male_Warrior_LeftToeBase' has
+      translation animation that will be discarded.\n\t'Male_Warrior_Spine' has translation
+      animation that will be discarded.\n\t'Male_Warrior_Spine1' has translation animation
+      that will be discarded.\n\t'Male_Warrior_Spine2' has translation animation that
+      will be discarded.\n\t'Male_Warrior_LeftShoulder' has translation animation
+      that will be discarded.\n\t'Male_Warrior_LeftArm' has translation animation
+      that will be discarded.\n\t'Male_Warrior_LeftForeArm' has translation animation
+      that will be discarded.\n\t'Male_Warrior_LeftHand' has translation animation
+      that will be discarded.\n\t'Male_Warrior_Neck' has translation animation that
+      will be discarded.\n\t'Male_Warrior_Head' has translation animation that will
+      be discarded.\n\t'Male_Warrior_RightShoulder' has translation animation that
+      will be discarded.\n\t'Male_Warrior_RightArm' has translation animation that
+      will be discarded.\n\t'Male_Warrior_RightForeArm' has translation animation
+      that will be discarded.\n\t'Male_Warrior_RightToeBase' has translation animation
+      that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: sword_idle_to_human_idle
+      takeName: sword_idle_to_human_idle
+      firstFrame: 0
+      lastFrame: 116
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Male_Warrior_Reference
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_LeftUpLeg
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_LeftUpLeg/Male_Warrior_LeftLeg
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_LeftUpLeg/Male_Warrior_LeftLeg/Male_Warrior_LeftFoot
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_LeftUpLeg/Male_Warrior_LeftLeg/Male_Warrior_LeftFoot/Male_Warrior_LeftToeBase
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_RightUpLeg
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_RightUpLeg/Male_Warrior_RightLeg
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_RightUpLeg/Male_Warrior_RightLeg/Male_Warrior_RightFoot
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_RightUpLeg/Male_Warrior_RightLeg/Male_Warrior_RightFoot/Male_Warrior_RightToeBase
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_LeftShoulder
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_LeftShoulder/Male_Warrior_LeftArm
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_LeftShoulder/Male_Warrior_LeftArm/Male_Warrior_LeftForeArm
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_LeftShoulder/Male_Warrior_LeftArm/Male_Warrior_LeftForeArm/Male_Warrior_LeftHand
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_LeftShoulder/Male_Warrior_LeftArm/Male_Warrior_LeftForeArm/Male_Warrior_LeftHand/Male_Warrior_LeftHandIndex1
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_LeftShoulder/Male_Warrior_LeftArm/Male_Warrior_LeftForeArm/Male_Warrior_LeftHand/Male_Warrior_LeftHandIndex1/Male_Warrior_LeftHandIndex2
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_LeftShoulder/Male_Warrior_LeftArm/Male_Warrior_LeftForeArm/Male_Warrior_LeftHand/Male_Warrior_LeftHandIndex1/Male_Warrior_LeftHandIndex2/Male_Warrior_LeftHandIndex3
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_LeftShoulder/Male_Warrior_LeftArm/Male_Warrior_LeftForeArm/Male_Warrior_LeftHand/Male_Warrior_LeftHandIndex1/Male_Warrior_LeftHandIndex2/Male_Warrior_LeftHandIndex3/Male_Warrior_LeftHandIndex4
+        weight: 0
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_LeftShoulder/Male_Warrior_LeftArm/Male_Warrior_LeftForeArm/Male_Warrior_LeftHand/Male_Warrior_LeftHandMiddle1
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_LeftShoulder/Male_Warrior_LeftArm/Male_Warrior_LeftForeArm/Male_Warrior_LeftHand/Male_Warrior_LeftHandMiddle1/Male_Warrior_LeftHandMiddle2
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_LeftShoulder/Male_Warrior_LeftArm/Male_Warrior_LeftForeArm/Male_Warrior_LeftHand/Male_Warrior_LeftHandMiddle1/Male_Warrior_LeftHandMiddle2/Male_Warrior_LeftHandMiddle3
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_LeftShoulder/Male_Warrior_LeftArm/Male_Warrior_LeftForeArm/Male_Warrior_LeftHand/Male_Warrior_LeftHandMiddle1/Male_Warrior_LeftHandMiddle2/Male_Warrior_LeftHandMiddle3/Male_Warrior_LeftHandMiddle4
+        weight: 0
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_LeftShoulder/Male_Warrior_LeftArm/Male_Warrior_LeftForeArm/Male_Warrior_LeftHand/Male_Warrior_LeftHandPinky1
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_LeftShoulder/Male_Warrior_LeftArm/Male_Warrior_LeftForeArm/Male_Warrior_LeftHand/Male_Warrior_LeftHandPinky1/Male_Warrior_LeftHandPinky2
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_LeftShoulder/Male_Warrior_LeftArm/Male_Warrior_LeftForeArm/Male_Warrior_LeftHand/Male_Warrior_LeftHandPinky1/Male_Warrior_LeftHandPinky2/Male_Warrior_LeftHandPinky3
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_LeftShoulder/Male_Warrior_LeftArm/Male_Warrior_LeftForeArm/Male_Warrior_LeftHand/Male_Warrior_LeftHandPinky1/Male_Warrior_LeftHandPinky2/Male_Warrior_LeftHandPinky3/Male_Warrior_LeftHandPinky4
+        weight: 0
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_LeftShoulder/Male_Warrior_LeftArm/Male_Warrior_LeftForeArm/Male_Warrior_LeftHand/Male_Warrior_LeftHandRing1
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_LeftShoulder/Male_Warrior_LeftArm/Male_Warrior_LeftForeArm/Male_Warrior_LeftHand/Male_Warrior_LeftHandRing1/Male_Warrior_LeftHandRing2
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_LeftShoulder/Male_Warrior_LeftArm/Male_Warrior_LeftForeArm/Male_Warrior_LeftHand/Male_Warrior_LeftHandRing1/Male_Warrior_LeftHandRing2/Male_Warrior_LeftHandRing3
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_LeftShoulder/Male_Warrior_LeftArm/Male_Warrior_LeftForeArm/Male_Warrior_LeftHand/Male_Warrior_LeftHandRing1/Male_Warrior_LeftHandRing2/Male_Warrior_LeftHandRing3/Male_Warrior_LeftHandRing4
+        weight: 0
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_LeftShoulder/Male_Warrior_LeftArm/Male_Warrior_LeftForeArm/Male_Warrior_LeftHand/Male_Warrior_LeftHandThumb1
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_LeftShoulder/Male_Warrior_LeftArm/Male_Warrior_LeftForeArm/Male_Warrior_LeftHand/Male_Warrior_LeftHandThumb1/Male_Warrior_LeftHandThumb2
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_LeftShoulder/Male_Warrior_LeftArm/Male_Warrior_LeftForeArm/Male_Warrior_LeftHand/Male_Warrior_LeftHandThumb1/Male_Warrior_LeftHandThumb2/Male_Warrior_LeftHandThumb3
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_LeftShoulder/Male_Warrior_LeftArm/Male_Warrior_LeftForeArm/Male_Warrior_LeftHand/Male_Warrior_LeftHandThumb1/Male_Warrior_LeftHandThumb2/Male_Warrior_LeftHandThumb3/Male_Warrior_LeftHandThumb4
+        weight: 0
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_Neck
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_Neck/Male_Warrior_Head
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder/Male_Warrior_RightArm
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder/Male_Warrior_RightArm/Male_Warrior_RightForeArm
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder/Male_Warrior_RightArm/Male_Warrior_RightForeArm/Male_Warrior_RightHand
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder/Male_Warrior_RightArm/Male_Warrior_RightForeArm/Male_Warrior_RightHand/j_weapon
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder/Male_Warrior_RightArm/Male_Warrior_RightForeArm/Male_Warrior_RightHand/Male_Warrior_RightHandIndex1
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder/Male_Warrior_RightArm/Male_Warrior_RightForeArm/Male_Warrior_RightHand/Male_Warrior_RightHandIndex1/Male_Warrior_RightHandIndex2
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder/Male_Warrior_RightArm/Male_Warrior_RightForeArm/Male_Warrior_RightHand/Male_Warrior_RightHandIndex1/Male_Warrior_RightHandIndex2/Male_Warrior_RightHandIndex3
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder/Male_Warrior_RightArm/Male_Warrior_RightForeArm/Male_Warrior_RightHand/Male_Warrior_RightHandIndex1/Male_Warrior_RightHandIndex2/Male_Warrior_RightHandIndex3/Male_Warrior_RightHandIndex4
+        weight: 0
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder/Male_Warrior_RightArm/Male_Warrior_RightForeArm/Male_Warrior_RightHand/Male_Warrior_RightHandMiddle1
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder/Male_Warrior_RightArm/Male_Warrior_RightForeArm/Male_Warrior_RightHand/Male_Warrior_RightHandMiddle1/Male_Warrior_RightHandMiddle2
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder/Male_Warrior_RightArm/Male_Warrior_RightForeArm/Male_Warrior_RightHand/Male_Warrior_RightHandMiddle1/Male_Warrior_RightHandMiddle2/Male_Warrior_RightHandMiddle3
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder/Male_Warrior_RightArm/Male_Warrior_RightForeArm/Male_Warrior_RightHand/Male_Warrior_RightHandMiddle1/Male_Warrior_RightHandMiddle2/Male_Warrior_RightHandMiddle3/Male_Warrior_RightHandMiddle4
+        weight: 0
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder/Male_Warrior_RightArm/Male_Warrior_RightForeArm/Male_Warrior_RightHand/Male_Warrior_RightHandPinky1
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder/Male_Warrior_RightArm/Male_Warrior_RightForeArm/Male_Warrior_RightHand/Male_Warrior_RightHandPinky1/Male_Warrior_RightHandPinky2
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder/Male_Warrior_RightArm/Male_Warrior_RightForeArm/Male_Warrior_RightHand/Male_Warrior_RightHandPinky1/Male_Warrior_RightHandPinky2/Male_Warrior_RightHandPinky3
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder/Male_Warrior_RightArm/Male_Warrior_RightForeArm/Male_Warrior_RightHand/Male_Warrior_RightHandPinky1/Male_Warrior_RightHandPinky2/Male_Warrior_RightHandPinky3/Male_Warrior_RightHandPinky4
+        weight: 0
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder/Male_Warrior_RightArm/Male_Warrior_RightForeArm/Male_Warrior_RightHand/Male_Warrior_RightHandRing1
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder/Male_Warrior_RightArm/Male_Warrior_RightForeArm/Male_Warrior_RightHand/Male_Warrior_RightHandRing1/Male_Warrior_RightHandRing2
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder/Male_Warrior_RightArm/Male_Warrior_RightForeArm/Male_Warrior_RightHand/Male_Warrior_RightHandRing1/Male_Warrior_RightHandRing2/Male_Warrior_RightHandRing3
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder/Male_Warrior_RightArm/Male_Warrior_RightForeArm/Male_Warrior_RightHand/Male_Warrior_RightHandRing1/Male_Warrior_RightHandRing2/Male_Warrior_RightHandRing3/Male_Warrior_RightHandRing4
+        weight: 0
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder/Male_Warrior_RightArm/Male_Warrior_RightForeArm/Male_Warrior_RightHand/Male_Warrior_RightHandThumb1
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder/Male_Warrior_RightArm/Male_Warrior_RightForeArm/Male_Warrior_RightHand/Male_Warrior_RightHandThumb1/Male_Warrior_RightHandThumb2
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder/Male_Warrior_RightArm/Male_Warrior_RightForeArm/Male_Warrior_RightHand/Male_Warrior_RightHandThumb1/Male_Warrior_RightHandThumb2/Male_Warrior_RightHandThumb3
+        weight: 1
+      - path: Male_Warrior_Reference/Male_Warrior_Hips/Male_Warrior_Spine/Male_Warrior_Spine1/Male_Warrior_Spine2/Male_Warrior_RightShoulder/Male_Warrior_RightArm/Male_Warrior_RightForeArm/Male_Warrior_RightHand/Male_Warrior_RightHandThumb1/Male_Warrior_RightHandThumb2/Male_Warrior_RightHandThumb3/Male_Warrior_RightHandThumb4
+        weight: 0
+      - path: world_root
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Male_Warrior_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Male_Warrior_Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: U_sword_idle_to_human_idle(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_Reference
+      parentName: U_sword_idle_to_human_idle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_Hips
+      parentName: Male_Warrior_Reference
+      position: {x: 0.0075306594, y: 1.2183524, z: -0.028222114}
+      rotation: {x: -0.1494082, y: -0.074279204, z: -0.028045068, w: 0.9855827}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftUpLeg
+      parentName: Male_Warrior_Hips
+      position: {x: -0.1469014, y: -0.096997656, z: 0.0000000519278}
+      rotation: {x: 0.38597095, y: 0.24209332, z: 0.6001466, w: 0.6574507}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftLeg
+      parentName: Male_Warrior_LeftUpLeg
+      position: {x: -0.5743727, y: -0.0000003024002, z: -0.00000013884609}
+      rotation: {x: 0.01009385, y: -0.032741778, z: 0.30633894, w: 0.9513057}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftFoot
+      parentName: Male_Warrior_LeftLeg
+      position: {x: -0.57402337, y: 0.000000007183941, z: 0.00000022009898}
+      rotation: {x: 0.0489477, y: 0.2557648, z: -0.8662094, w: 0.42646205}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Male_Warrior_LeftToeBase
+      parentName: Male_Warrior_LeftFoot
+      position: {x: -0.20498039, y: -0.07839175, z: 0.0030569818}
+      rotation: {x: -0.02231147, y: -0.666596, z: -0.022807486, w: 0.7447361}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_RightUpLeg
+      parentName: Male_Warrior_Hips
+      position: {x: 0.1468962, y: -0.09723718, z: 0.000053434233}
+      rotation: {x: 0.5532732, y: -0.5234797, z: 0.39105868, w: -0.51665366}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999999}
+    - name: Male_Warrior_RightLeg
+      parentName: Male_Warrior_RightUpLeg
+      position: {x: 0.5743671, y: 0.00000020720339, z: -0.0000002904448}
+      rotation: {x: -0.002418667, y: 0.0067511788, z: 0.32941985, w: 0.9441563}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_RightFoot
+      parentName: Male_Warrior_RightLeg
+      position: {x: 0.5740186, y: 0.0000006550384, z: 0.00000025674981}
+      rotation: {x: -0.08538873, y: 0.079854466, z: -0.9145222, w: 0.3872743}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: Male_Warrior_RightToeBase
+      parentName: Male_Warrior_RightFoot
+      position: {x: 0.204981, y: 0.07839204, z: -0.0030567087}
+      rotation: {x: -0.029431855, y: -0.6660416, z: -0.02809975, w: 0.7448039}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_Spine
+      parentName: Male_Warrior_Hips
+      position: {x: 0.00000001709817, y: 0.09363079, z: 0.000000028854398}
+      rotation: {x: 0.5986623, y: -0.34936675, z: -0.5805783, w: 0.42717105}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: Male_Warrior_Spine1
+      parentName: Male_Warrior_Spine
+      position: {x: -0.205799, y: -0.0131285405, z: -0.000000014850349}
+      rotation: {x: -0.04035516, y: -0.020263432, z: -0.05897423, w: 0.9972377}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_Spine2
+      parentName: Male_Warrior_Spine1
+      position: {x: -0.2065422, y: -0.015806729, z: 0.00000002469665}
+      rotation: {x: -0.036650024, y: -0.021050341, z: -0.09846527, w: 0.99424255}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftShoulder
+      parentName: Male_Warrior_Spine2
+      position: {x: -0.17346661, y: -0.03757282, z: 0.093632355}
+      rotation: {x: 0.04996191, y: 0.78935087, z: -0.10411079, w: 0.60298425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftArm
+      parentName: Male_Warrior_LeftShoulder
+      position: {x: -0.1927284, y: 0.01399487, z: -0.000978436}
+      rotation: {x: -0.11454276, y: -0.093120925, z: 0.07815413, w: 0.9859515}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftForeArm
+      parentName: Male_Warrior_LeftArm
+      position: {x: -0.3908631, y: 0.0000004679937, z: -0.0000001159842}
+      rotation: {x: 0.00025672466, y: -0.022894025, z: -0.022643067, w: 0.99948144}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftHand
+      parentName: Male_Warrior_LeftForeArm
+      position: {x: -0.37501368, y: 0.00000006041917, z: 0.00000008145156}
+      rotation: {x: 0.02213163, y: 0.014783985, z: -0.03934273, w: 0.99887127}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftHandIndex1
+      parentName: Male_Warrior_LeftHand
+      position: {x: -0.145063, y: 0.03622221, z: -0.00814682}
+      rotation: {x: 0.0044420115, y: 0.066173464, z: 0.06580347, w: 0.9956261}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftHandIndex2
+      parentName: Male_Warrior_LeftHandIndex1
+      position: {x: -0.0583616, y: -6.998926e-10, z: 0.00000006221673}
+      rotation: {x: -0.0024249041, y: 0.036643557, z: 0.00029081022, w: 0.99932545}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftHandIndex3
+      parentName: Male_Warrior_LeftHandIndex2
+      position: {x: -0.039628338, y: 8.933179e-10, z: -0.00000009882896}
+      rotation: {x: -0.0024886867, y: 0.03621097, z: 0.00043148204, w: 0.999341}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftHandIndex4
+      parentName: Male_Warrior_LeftHandIndex3
+      position: {x: -0.033322178, y: 3.931914e-10, z: 0.00000005709885}
+      rotation: {x: -0.6636042, y: -0.14326048, z: -0.22943653, w: 0.69747025}
+      scale: {x: 1, y: 0.9999998, z: 0.9999999}
+    - name: Male_Warrior_LeftHandMiddle1
+      parentName: Male_Warrior_LeftHand
+      position: {x: -0.1359062, y: -0.010582419, z: -0.001673889}
+      rotation: {x: -0.07536368, y: 0.068617776, z: 0.043701924, w: 0.9938321}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftHandMiddle2
+      parentName: Male_Warrior_LeftHandMiddle1
+      position: {x: -0.06357413, y: -0.000000001305152, z: 0.00000001652321}
+      rotation: {x: 0.001526154, y: 0.031163748, z: 0.0022811173, w: 0.9995106}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftHandMiddle3
+      parentName: Male_Warrior_LeftHandMiddle2
+      position: {x: -0.036257442, y: 0.0000000054808535, z: -0.00000006714907}
+      rotation: {x: 0.013974246, y: 0.034393426, z: 0.001228331, w: 0.9993099}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftHandMiddle4
+      parentName: Male_Warrior_LeftHandMiddle3
+      position: {x: -0.03518851, y: -0.000000009239283, z: 0.000000074757395}
+      rotation: {x: -0.6360747, y: -0.12858841, z: -0.22397384, w: 0.7271243}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftHandPinky1
+      parentName: Male_Warrior_LeftHand
+      position: {x: -0.107207805, y: -0.072002225, z: 0.03079865}
+      rotation: {x: -0.2380967, y: 0.13522024, z: 0.0141186975, w: 0.96167886}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftHandPinky2
+      parentName: Male_Warrior_LeftHandPinky1
+      position: {x: -0.03044539, y: -0.00171436, z: -0.005322273}
+      rotation: {x: -0.013506168, y: -0.054370794, z: 0.0043919934, w: 0.9984198}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftHandPinky3
+      parentName: Male_Warrior_LeftHandPinky2
+      position: {x: -0.03018147, y: -0.00000001523422, z: 0.00000002302156}
+      rotation: {x: 0.023157144, y: 0.032570988, z: 0.0021290735, w: 0.99919885}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftHandPinky4
+      parentName: Male_Warrior_LeftHandPinky3
+      position: {x: -0.02414155, y: -0.0000000066540955, z: 0.000000001785156}
+      rotation: {x: -0.52245975, y: -0.02743094, z: -0.43615463, w: 0.73215616}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: Male_Warrior_LeftHandRing1
+      parentName: Male_Warrior_LeftHand
+      position: {x: -0.1292931, y: -0.047011096, z: 0.01418503}
+      rotation: {x: -0.14594099, y: 0.06561896, z: 0.043850224, w: 0.98614025}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftHandRing2
+      parentName: Male_Warrior_LeftHandRing1
+      position: {x: -0.04809019, y: -0.000000005388564, z: 0.00000004183996}
+      rotation: {x: -0.0038878461, y: 0.030728377, z: -0.0035312325, w: 0.999514}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftHandRing3
+      parentName: Male_Warrior_LeftHandRing2
+      position: {x: -0.045848932, y: 0.000000001400641, z: -0.0000000125239}
+      rotation: {x: -0.0027901889, y: 0.034893557, z: 0.0001578267, w: 0.9993872}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftHandRing4
+      parentName: Male_Warrior_LeftHandRing3
+      position: {x: -0.02317158, y: -0.00000002214535, z: 0.0000000693458}
+      rotation: {x: -0.58845305, y: -0.053808592, z: -0.24139273, w: 0.76977736}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftHandThumb1
+      parentName: Male_Warrior_LeftHand
+      position: {x: -0.05392131, y: 0.061727416, z: 0.03018234}
+      rotation: {x: -0.296643, y: -0.0076853903, z: -0.3085695, w: 0.90373045}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftHandThumb2
+      parentName: Male_Warrior_LeftHandThumb1
+      position: {x: -0.047797106, y: 0.000000012445319, z: 0.00000006264042}
+      rotation: {x: -0.061850503, y: 0.00562774, z: 0.03339108, w: 0.99751085}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftHandThumb3
+      parentName: Male_Warrior_LeftHandThumb2
+      position: {x: -0.04020301, y: -0.000000034510368, z: 0.000000015018799}
+      rotation: {x: -0.051836647, y: -0.0011956992, z: 0.023029525, w: 0.9983893}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_LeftHandThumb4
+      parentName: Male_Warrior_LeftHandThumb3
+      position: {x: -0.027168728, y: -0.000000007767729, z: 0.000000021796161}
+      rotation: {x: -0.50071466, y: -0.4992843, z: -0.033542845, w: 0.7063108}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_Neck
+      parentName: Male_Warrior_Spine2
+      position: {x: -0.20575, y: -0.02568304, z: -0.0000000771194}
+      rotation: {x: 0.094826385, y: -0.009089222, z: -0.034250226, w: 0.9948629}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_Head
+      parentName: Male_Warrior_Neck
+      position: {x: -0.1967251, y: 0.00000034746668, z: -0.00000030983438}
+      rotation: {x: -0.46768153, y: 0.26888007, z: 0.7768148, w: 0.3248634}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_RightShoulder
+      parentName: Male_Warrior_Spine2
+      position: {x: -0.17346188, y: -0.037611187, z: -0.09362556}
+      rotation: {x: 0.7998205, y: -0.06301767, z: -0.59679717, w: 0.012214224}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_RightArm
+      parentName: Male_Warrior_RightShoulder
+      position: {x: 0.19272989, y: -0.013994879, z: 0.00097393774}
+      rotation: {x: -0.10914597, y: -0.12982748, z: -0.10296803, w: 0.9801172}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_RightForeArm
+      parentName: Male_Warrior_RightArm
+      position: {x: 0.39086416, y: -0.0000002117033, z: 0.000004358487}
+      rotation: {x: -0.00002024322, y: -0.017969275, z: -0.029495344, w: 0.9994034}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_RightHand
+      parentName: Male_Warrior_RightForeArm
+      position: {x: 0.375015, y: 0.00000033839407, z: -0.00000033782277}
+      rotation: {x: 0.025674425, y: 0.011702445, z: 0.07296365, w: 0.9969354}
+      scale: {x: 0.9999995, y: 1, z: 0.9999995}
+    - name: j_weapon
+      parentName: Male_Warrior_RightHand
+      position: {x: 0.066886656, y: 0.03975306, z: -0.05149115}
+      rotation: {x: 0.97536725, y: 0.05842839, z: -0.18765403, w: 0.10015424}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_RightHandIndex1
+      parentName: Male_Warrior_RightHand
+      position: {x: 0.1439686, y: -0.040207308, z: 0.008756669}
+      rotation: {x: 0.11711487, y: 0.028481832, z: 0.036794823, w: 0.99202776}
+      scale: {x: 1, y: 0.9999996, z: 1}
+    - name: Male_Warrior_RightHandIndex2
+      parentName: Male_Warrior_RightHandIndex1
+      position: {x: 0.05836266, y: 0.00000003, z: -0.00000389}
+      rotation: {x: -0.0030368324, y: 0.01784988, z: 0.0000033387894, w: 0.99983615}
+      scale: {x: 0.9999998, y: 1, z: 1}
+    - name: Male_Warrior_RightHandIndex3
+      parentName: Male_Warrior_RightHandIndex2
+      position: {x: 0.03963051, y: 0.00000006, z: 0.0000037399998}
+      rotation: {x: -0.003040815, y: 0.024016557, z: 0.00006888149, w: 0.9997069}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Male_Warrior_RightHandIndex4
+      parentName: Male_Warrior_RightHandIndex3
+      position: {x: 0.03332653, y: 0.00000012, z: 0.0000032299997}
+      rotation: {x: -0.6793076, y: -0.19656709, z: -0.17763096, w: 0.6843609}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999998}
+    - name: Male_Warrior_RightHandMiddle1
+      parentName: Male_Warrior_RightHand
+      position: {x: 0.1360524, y: 0.00710518, z: 0.00483648}
+      rotation: {x: -0.07984897, y: 0.027682632, z: 0.024948588, w: 0.9961102}
+      scale: {x: 0.9999994, y: 0.9999996, z: 1}
+    - name: Male_Warrior_RightHandMiddle2
+      parentName: Male_Warrior_RightHandMiddle1
+      position: {x: 0.06357797, y: -0.00000101, z: 0.00000827}
+      rotation: {x: -0.0046705646, y: 0.015821686, z: 0.00051139283, w: 0.99986386}
+      scale: {x: 1, y: 0.9999995, z: 0.9999995}
+    - name: Male_Warrior_RightHandMiddle3
+      parentName: Male_Warrior_RightHandMiddle2
+      position: {x: 0.036256447, y: 0.00000031, z: -0.00000278}
+      rotation: {x: 0.013160974, y: 0.024771418, z: 0.0006100982, w: 0.9996063}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Male_Warrior_RightHandMiddle4
+      parentName: Male_Warrior_RightHandMiddle3
+      position: {x: 0.0351881, y: 0.00000025999998, z: -0.00000292}
+      rotation: {x: -0.6514389, y: -0.18422338, z: -0.17430535, w: 0.71505725}
+      scale: {x: 1, y: 1, z: 0.9999995}
+    - name: Male_Warrior_RightHandPinky1
+      parentName: Male_Warrior_RightHand
+      position: {x: 0.1094725, y: 0.07098455, z: -0.02454332}
+      rotation: {x: -0.3180076, y: 0.09642266, z: -0.031969924, w: 0.9426303}
+      scale: {x: 0.9999999, y: 0.9999998, z: 1.000001}
+    - name: Male_Warrior_RightHandPinky2
+      parentName: Male_Warrior_RightHandPinky1
+      position: {x: 0.030445538, y: 0.0017122, z: 0.00532961}
+      rotation: {x: -0.00044575313, y: -0.06139683, z: 0.024062717, w: 0.9978233}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999997}
+    - name: Male_Warrior_RightHandPinky3
+      parentName: Male_Warrior_RightHandPinky2
+      position: {x: 0.030180769, y: 0.00000286, z: -0.00000682}
+      rotation: {x: 0.020764638, y: 0.021013478, z: 0.0010078729, w: 0.99956304}
+      scale: {x: 0.9999995, y: 1, z: 0.9999998}
+    - name: Male_Warrior_RightHandPinky4
+      parentName: Male_Warrior_RightHandPinky3
+      position: {x: 0.02414489, y: -0.00000321, z: 0.0000031999998}
+      rotation: {x: -0.5545081, y: -0.083754234, z: -0.3946084, w: 0.7278669}
+      scale: {x: 1, y: 1, z: 0.9999996}
+    - name: Male_Warrior_RightHandRing1
+      parentName: Male_Warrior_RightHand
+      position: {x: 0.1306237, y: 0.04453937, z: -0.00899128}
+      rotation: {x: -0.19774708, y: 0.0255423, z: 0.021790797, w: 0.9796779}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Male_Warrior_RightHandRing2
+      parentName: Male_Warrior_RightHandRing1
+      position: {x: 0.048094567, y: -0.000000049999997, z: -0.00000248}
+      rotation: {x: 0.005360467, y: 0.016463215, z: -0.00089603715, w: 0.9998498}
+      scale: {x: 0.9999998, y: 1, z: 1.000001}
+    - name: Male_Warrior_RightHandRing3
+      parentName: Male_Warrior_RightHandRing2
+      position: {x: 0.04584536, y: 0.00000007, z: 0.00000061}
+      rotation: {x: -0.0030233325, y: 0.02599696, z: 0.0000027168708, w: 0.9996575}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Male_Warrior_RightHandRing4
+      parentName: Male_Warrior_RightHandRing3
+      position: {x: 0.023170339, y: 0.00000065, z: -0.0000017599999}
+      rotation: {x: -0.60530114, y: -0.11295174, z: -0.19534159, w: 0.76334405}
+      scale: {x: 0.9999999, y: 1, z: 0.9999998}
+    - name: Male_Warrior_RightHandThumb1
+      parentName: Male_Warrior_RightHand
+      position: {x: 0.053045686, y: -0.06119977, z: -0.03269707}
+      rotation: {x: -0.22488844, y: 0.0049588312, z: -0.33627996, w: 0.91450346}
+      scale: {x: 1, y: 0.9999995, z: 0.9999999}
+    - name: Male_Warrior_RightHandThumb2
+      parentName: Male_Warrior_RightHandThumb1
+      position: {x: 0.04780131, y: 0.00000518, z: 0.00000267}
+      rotation: {x: 0.048243362, y: -0.0022466788, z: 0.020284677, w: 0.99862707}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Male_Warrior_RightHandThumb3
+      parentName: Male_Warrior_RightHandThumb2
+      position: {x: 0.04020277, y: -0.00000012999999, z: -0.00000421}
+      rotation: {x: -0.0026544651, y: 0.0012858636, z: 0.014938446, w: 0.99988407}
+      scale: {x: 1, y: 0.9999996, z: 0.9999999}
+    - name: Male_Warrior_RightHandThumb4
+      parentName: Male_Warrior_RightHandThumb3
+      position: {x: 0.0271667, y: -0.00000174, z: -0.00000047}
+      rotation: {x: -0.50071466, y: -0.4992843, z: -0.03354288, w: 0.70631075}
+      scale: {x: 0.9999997, y: 0.9999999, z: 0.9999999}
+    - name: world_root
+      parentName: U_sword_idle_to_human_idle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: ffaf641b210f5ea41952cf36f1379d66,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

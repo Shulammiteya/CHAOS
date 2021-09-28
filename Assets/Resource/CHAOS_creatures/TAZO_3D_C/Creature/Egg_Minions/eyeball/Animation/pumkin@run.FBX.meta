@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 44cd54d99e2c3a4499e94f03403253a5
+timeCreated: 1544930539
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: face_eye_goblin
+    100002: goblin_1
+    100004: goblin_mother
+    100006: head_goblin
+    100008: left_eye_goblin
+    100010: left_goblin_1
+    100012: left_goblin_2
+    100014: left_goblin_3
+    100016: //RootNode
+    100018: pumkin_root
+    100020: right_eye_goblin
+    100022: right_goblin_1
+    100024: right_goblin_2
+    100026: right_goblin_3
+    100028: exporter
+    400000: face_eye_goblin
+    400002: goblin_1
+    400004: goblin_mother
+    400006: head_goblin
+    400008: left_eye_goblin
+    400010: left_goblin_1
+    400012: left_goblin_2
+    400014: left_goblin_3
+    400016: //RootNode
+    400018: pumkin_root
+    400020: right_eye_goblin
+    400022: right_goblin_1
+    400024: right_goblin_2
+    400026: right_goblin_3
+    400028: exporter
+    7400000: run
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 1051
+      lastFrame: 1076
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: exporter
+        weight: 1
+      - path: pumkin_root
+        weight: 1
+      - path: pumkin_root/goblin_mother
+        weight: 1
+      - path: pumkin_root/goblin_mother/goblin_1
+        weight: 1
+      - path: pumkin_root/goblin_mother/goblin_1/head_goblin
+        weight: 1
+      - path: pumkin_root/goblin_mother/goblin_1/head_goblin/face_eye_goblin
+        weight: 1
+      - path: pumkin_root/goblin_mother/goblin_1/head_goblin/left_eye_goblin
+        weight: 1
+      - path: pumkin_root/goblin_mother/goblin_1/head_goblin/right_eye_goblin
+        weight: 1
+      - path: pumkin_root/goblin_mother/goblin_1/left_goblin_1
+        weight: 1
+      - path: pumkin_root/goblin_mother/goblin_1/left_goblin_1/left_goblin_2
+        weight: 1
+      - path: pumkin_root/goblin_mother/goblin_1/left_goblin_1/left_goblin_2/left_goblin_3
+        weight: 1
+      - path: pumkin_root/goblin_mother/goblin_1/right_goblin_1
+        weight: 1
+      - path: pumkin_root/goblin_mother/goblin_1/right_goblin_1/right_goblin_2
+        weight: 1
+      - path: pumkin_root/goblin_mother/goblin_1/right_goblin_1/right_goblin_2/right_goblin_3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1051
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 9410b10b86c0dea48bcedfbbd2e9ec10,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

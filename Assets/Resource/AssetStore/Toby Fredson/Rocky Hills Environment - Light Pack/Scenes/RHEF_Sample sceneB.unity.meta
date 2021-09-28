@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 29c2850683809ca4b97bcedfd1a4fc03
+labels:
+- Scenes
+- cave
+- cliff
+- pine
+- spruce
+- tree
+timeCreated: 1493426708
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: scenes
+  assetBundleVariant: 
