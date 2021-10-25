@@ -54,7 +54,7 @@ Of course, since your needs may be different, you are very welcome to suggest ch
    ```sh
       git clone https://github.com/Shulammiteya/CHAOS.git
    ```
-2.  Open Open Project in Unity and Enjoy！
+2.  Open this project in Unity and enjoy！
 <br />
 
 
@@ -90,6 +90,7 @@ Of course, since your needs may be different, you are very welcome to suggest ch
 <p float="center" align="center">
 <img src="https://drive.google.com/uc?export=view&id=18DYEDOm6nDoLI_gvOsBjc4bvgNIC8ee0" alt="Final battle with monsters and wizards." width="683px" height=384px>
 </p>
+<br />
 
 
 
